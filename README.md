@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![KKCavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=KKCavalcante&show_icons=true)
 
-[![KKCavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=KKCavalcante)](https://github.com/KKCavalcante/github-readme-stats)
+
+[![KKCavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=KKCavalcante)](https://github.com/KKCavalcante/github-readme-stats)(https://github-readme-stats.vercel.app/api?username=KKCavalcante&show_icons=true)
 
 
 
