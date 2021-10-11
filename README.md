@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 
 [![KKCavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=KKCavalcante&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKCavalcante&layout=compact&show_icons=true&theme=dracula)](https://github.com/KKCavalcante/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKCavalcante&show_icons=true&theme=dracula)](https://github.com/KKCavalcante/github-readme-stats)
+
 
 - Thanks for visiting.
 
