@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 
 
-[![KKCavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=KKCavalcante)](https://github.com/KKCavalcante/github-readme-stats)(https://github-readme-stats.vercel.app/api?username=KKCavalcante&show_icons=true)
+[![KKCavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=KKCavalcante&show_icons=true&theme=radical)
+
 
 
 
